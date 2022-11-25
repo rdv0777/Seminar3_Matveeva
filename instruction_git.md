@@ -128,4 +128,3 @@ Git предложит несколько решений:
 
     git branch -d <branch_name>
 
-Hello world
